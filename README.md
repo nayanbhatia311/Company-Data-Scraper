@@ -7,14 +7,15 @@ This script uses Selenium to scrape financial data for a list of companies from 
 
 ## Requirements
 
-Python 3.x. 
-Selenium  
-Pandas. 
-Installation. 
+Python 3.x, 
+Selenium,
+Pandas,
 
-Install Python 3.x from the official website: https://www.python.org/downloads/. 
-Install Selenium using pip: pip install selenium. 
-Install Pandas using pip: pip install pandas. 
+### Installation. 
+
+Install Python 3.x from the official website: https://www.python.org/downloads/ <br>
+Install Selenium using pip: pip install selenium <br>  
+Install Pandas using pip: pip install pandas <br>
 
 ## Usage
 
