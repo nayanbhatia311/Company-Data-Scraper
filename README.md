@@ -7,22 +7,22 @@ This script uses Selenium to scrape financial data for a list of companies from 
 
 ## Requirements
 
-Python 3.x
-Selenium
-Pandas
-Installation
+Python 3.x. 
+Selenium  
+Pandas. 
+Installation. 
 
-Install Python 3.x from the official website: https://www.python.org/downloads/
-Install Selenium using pip: pip install selenium
-Install Pandas using pip: pip install pandas
+Install Python 3.x from the official website: https://www.python.org/downloads/. 
+Install Selenium using pip: pip install selenium. 
+Install Pandas using pip: pip install pandas. 
 
-Usage
+## Usage
 
 Create a text file with the name company_name_set.txt in the same directory as the script.
 Add a list of company names to the text file, with each company name on a new line.
 Run the script in a Python environment. The script will scrape data for each company in the text file and export it to a CSV file with the current date as the file name.
 The script will print the extracted data for each company to the console as a dictionary.
 
-##Disclaimer
+## Disclaimer
 
 This script is for educational purposes only. Scraping data from websites without their permission may violate their terms of service. It is the responsibility of the user to ensure they have the legal right to scrape data from any website before doing so.
