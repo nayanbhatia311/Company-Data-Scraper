@@ -9,12 +9,12 @@ This script uses Selenium to scrape financial data for a list of companies from 
 
 Python 3.x, 
 Selenium,
-Pandas,
+Pandas.  
 
 ### Installation. 
 
 Install Python 3.x from the official website: https://www.python.org/downloads/ <br>
-Install Selenium using pip: pip install selenium <br>  
+Install Selenium using pip: pip install selenium <br>
 Install Pandas using pip: pip install pandas <br>
 
 ## Usage
